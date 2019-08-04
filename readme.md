@@ -1,3 +1,5 @@
+![](https://media.giphy.com/media/Lo5eUiLujpaLwcCquP/source.gif)
+
 The file contains all of the integers between 1 and 10,000 (inclusive, with no repeats) in unsorted order. The integer in the i^{th}i
 th
   row of the file gives you the i^{th}i
